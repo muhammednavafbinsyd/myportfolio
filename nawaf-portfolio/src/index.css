@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+   scroll-behavior: smooth;
+}
+body {
+   margin: 0;
+   padding: 0;
+   background: #282C33;
+   font-family: "Fira Code", monospace;
+   font-optical-sizing: auto;
+   font-style: normal;
+   box-sizing: border-box;
+}
+p{
+   color: gray;
+}
+a{
+   color: gray;
+}
