@@ -1,6 +1,7 @@
 import React from "react";
 import IconBudingtuning from '../assets/Web_capture_1-11-2023_94336_-removebg.png';
-import IconCastmee from '../assets/castmee footer logo.png' 
+import IconCastmee from '../assets/castmee footer logo.png'
+import WeatherIocn from '../assets/weather-2021-12-07.webp'
 
 export default function Projects() {
   const projects = [
@@ -40,7 +41,7 @@ export default function Projects() {
       buttons: [
         { text: "GitHub", link: "https://github.com/muhammednavafbinsyd/Weather-app.git" },
       ],
-      image: "path-to-kahoot-image",
+      image: WeatherIocn,
     },
   ];
 

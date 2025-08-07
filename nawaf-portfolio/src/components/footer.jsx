@@ -3,9 +3,8 @@ import Logo from "../assets/NF (1).png";
 import Github from "../assets/GitHub(icon).png";
 import Twitter from "../assets/Twittet(icon).png";
 
-
 export default function Footer() {
-  return (
+  return ( 
     <div>
       <hr class="h-px my-8 bg-gray-200 border-0 dark:bg-gray-500" />
       <section className="text-white py-10 mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
